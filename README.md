@@ -1,7 +1,3 @@
-
-Memory updated
-Here's a basic README file that outlines what you've learned so far:
-
 Flask Project Learning Journey
 Overview
 This project serves as a learning exercise for getting familiar with Flask, a micro web framework for Python. Throughout this journey, I have learned the basics of creating web applications, routing, handling forms, and creating APIs.
